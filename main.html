@@ -6,54 +6,40 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    <link href="style.css" rel="stylesheet">
+    <link href="./CSS/style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" type="image/jpg" href="atuaimagem.jpg" />
-    <link rel="icon" href="deaf.png" type="image/x-icon" />
+    <link rel="icon" href="./images/deaf.png" type="image/x-icon" />
     <title>Página principal</title>
   </head>
   <header>
-  <div class="px-3 py-2 bg-dark text-white">
+  <div class="px-3 py-2 bg-secondary text-white">
     <div class="container">
       <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-        <a href="/" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none">
-          <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap"><use xlink:href="#bootstrap"></use></svg>
-        </a>
-        <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
-          <li>
-            <a href="#" class="nav-link text-secondary">
-              <i class="bi bi-house-door"></i></svg>
-              Home
-            </a>
-          </li>
-          <li>
-            <a href="#" class="nav-link text-white">
-                <i class="bi bi-speedometer"></i>
-              Dashboard
-            </a>
-          </li>
-          <li>
-            <a href="#" class="nav-link text-white">
-                <i class="bi bi-calendar-check"></i>
-              Orders
-            </a>
-          </li>
-          <li>
-            <a href="#" class="nav-link text-white">
-            <i class="bi bi-basket"></i>
-              Products
-            </a>
-          </li>
-          <li>
-            <a href="#" class="nav-link text-white">
-                <i class="bi bi-archive"></i>
-              Customers
-            </a>
-          </li>
-        </ul>
+        <div class="dropdown">
+          <button onclick="" class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="bi bi-person"></i>
+          Usuário
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" href="#">Perfil</a>
+            <a class="dropdown-item" href="#">Configurações</a>
+            <a class="dropdown-item" href="#">Sobre</a>
+          </div>
+        </div>
+        <button type="button" class="btn btn-secondary">Secondary</button>
       </div>
     </div>
   </div>
 </header>
+<body>
 </body>
 </html>
+<script>
+      let dropdowns = document.querySelectorAll('.dropdown-toggle')
+      dropdowns.forEach((dd)=>{
+      dd.addEventListener('click', function (e) {
+        var el = this.nextElementSibling
+        el.style.display = el.style.display==='block'?'none':'block'
+    })
+})
+</script>
