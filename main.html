@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,39 +7,222 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <link href="./CSS/style.css" rel="stylesheet">
+    <link href="./CSS/main.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" type="image/jpg" href="atuaimagem.jpg" />
     <link rel="icon" href="./images/deaf.png" type="image/x-icon" />
     <title>Página principal</title>
   </head>
-  <header>
+<header>
   <div class="px-3 py-2 bg-secondary text-white">
     <div class="container">
       <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
         <div class="dropdown">
-          <button onclick="" class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="bi bi-person"></i>
-          Usuário
+          <button onclick="dropdownFunction()" class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"  aria-disabled="true"><i class="bi bi-bookmarks"></i>
+          Categoria
           </button>
-          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-            <a class="dropdown-item" href="#">Perfil</a>
-            <a class="dropdown-item" href="#">Configurações</a>
-            <a class="dropdown-item" href="#">Sobre</a>
+          <div id="myDropdown" class="dropdown-menu">
+            <a class="dropdown-item" href="#">ABC</a>
+            <a class="dropdown-item" href="#">Animais</a>
+            <a class="dropdown-item" href="#">Cores</a>
           </div>
         </div>
-        <button type="button" class="btn btn-secondary">Secondary</button>
+        <button type="button" class="btn btn-secondary"><i class="bi bi-person"></i>  Profile</button>
+        <button type="button" class="btn btn-secondary"><i class="bi bi-house"></i> Home</button> 
+        <form class="col-12 col-lg-4 mb-5 mb-lg-0 me-lg-3">
+          <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
+        </form>
       </div>
     </div>
   </div>
 </header>
 <body>
+  <main>
+
+    <section class="py-5 text-center container">
+      <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+          <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">exemplo de álbum</font></font></h1>
+          <p class="lead text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Uma breve descrição sobre o álbum abaixo (seu conteúdo, seu criador, etc.). </font><font style="vertical-align: inherit;">Mantenha-o curto e bonito, mas não muito curto, para que as pessoas não pulem completamente este álbum.</font></font></p>
+          <p>
+            <a href="#" class="btn btn-primary my-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">O principal apelo à ação</font></font></a>
+            <a href="#" class="btn btn-secondary my-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">trabalho secundário</font></font></a>
+          </p>
+        </div>
+      </div>
+    </section>
+  
+    <div class="album py-5 bg-light">
+      <div class="container">
+  
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</text></svg>
+  
+              <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</text></svg>
+  
+              <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</text></svg>
+  
+              <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+  
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</text></svg>
+  
+              <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</text></svg>
+  
+              <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</text></svg>
+  
+              <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+  
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</text></svg>
+                <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</text></svg>
+  
+              <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">exemplo</svg>
+  
+              <div class="card-body">
+                <p class="card-text"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de apoio abaixo como uma introdução natural para conteúdo adicional. </font><font style="vertical-align: inherit;">Este conteúdo é um pouco mais longo.</font></font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uma oferta</font></font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Modificação</font></font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9 minutos</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  </main>
 </body>
 </html>
 <script>
-      let dropdowns = document.querySelectorAll('.dropdown-toggle')
-      dropdowns.forEach((dd)=>{
-      dd.addEventListener('click', function (e) {
-        var el = this.nextElementSibling
-        el.style.display = el.style.display==='block'?'none':'block'
-    })
-})
+function dropdownFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+// Aqui é quando o usuario clica fora o dropdown some.
+window.onclick = function(event) {
+  if (!event.target.matches('.btn-secondary')) {
+    var dropdowns = document.getElementsByClassName("dropdown-menu");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+} 
 </script>
