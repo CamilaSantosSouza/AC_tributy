@@ -16,14 +16,11 @@
       <div class="py-5 text-center">
         <img class="mb-4" src="./Images/hands.png" alt="" width="72" height="72">
         <h2>Cadastrar</h2>
-        <p class="lead">Por favor, adicione apenas dados Validos!</p>
+        <p class="lead">Por favor, adicione apenas dados válidos!</p>
       </div>
       <div class="mb-3">
         <label for="username">Nome</label>
         <div class="input-group">
-          <div class="input-group-prepend">
-            <span class="input-group-text">@</span>
-          </div>
           <input type="text" class="form-control" id="username" placeholder="Nome" required="">
           <div class="invalid-feedback" style="width: 100%;">
             O nome é Obrigatório.
@@ -33,9 +30,30 @@
 
       <div class="mb-3">
         <label for="email">E-mail</label>
-        <input type="email" class="form-control" id="email" placeholder="seunome@examplo.com" required="">
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text">@</span>
+          </div>
+        <input type="email" class="form-control" id="email" placeholder="seunome@exemplo.com" required="">
         <div class="invalid-feedback">
           Digite seu E-mail.
+        </div>
+      </div>
+      </div>
+      <!-- Senha -->
+      <div class="mb-3">
+        <label for="email">Senha</label>
+        <input type="email" class="form-control" id="email" placeholder="Senha">
+        <div class="invalid-feedback">
+          Digite sua senha.
+        </div>
+      </div>
+      <!-- Confirmar Senha -->
+      <div class="mb-3">
+        <label for="email">Confirmar senha</label>
+        <input type="email" class="form-control" id="email" placeholder="Confirmar senha">
+        <div class="invalid-feedback">
+          Confirme sua senha.
         </div>
       </div>
       <div class="row">
@@ -56,7 +74,7 @@
         <label class="custom-control-label" for="save-info"> Salvar informações para a proxima vez </label>
       </div>
       <hr class="mb-4">
-      <button class="btn btn-primary btn-lg btn-block" type="submit">Continue to checkout</button>
+      <button class="btn btn-primary btn-lg btn-block" type="submit">Continue para finalizar seu cadastro</button>
     </form>
   </div>
 </div>
