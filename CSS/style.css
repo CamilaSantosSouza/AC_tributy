@@ -97,6 +97,7 @@ img, svg {
     border-radius: .3rem;
 }
 .btn-primary {
+    margin-right: 5px;
     color: #fff;
     background-color: #007bff;
     border-color: #007bff;
