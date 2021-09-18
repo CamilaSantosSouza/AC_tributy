@@ -12,12 +12,24 @@
     <title>Cadastro</title>
   </head>
   <body class="bg-light">
+    <script>                        
+      function show() {
+        var senha = document.getElementById("senha");
+        if (senha.type === "password") {
+          senha.type = "text";
+        } else {
+          senha.type = "password";
+        }
+      }
+      </script>  
     <div class="container">
       <div class="py-5 text-center">
         <img class="mb-4" src="./Images/hands.png" alt="" width="72" height="72">
         <h2>Cadastrar</h2>
         <p class="lead">Por favor, adicione apenas dados válidos!</p>
       </div>
+      <form class="form-label-group">
+      <!-- Email -->
       <div class="mb-3">
         <label for="username">Nome</label>
         <div class="input-group">
@@ -27,14 +39,14 @@
           </div>
         </div>
       </div>
-
+      <!-- Email -->
       <div class="mb-3">
         <label for="email">E-mail</label>
         <div class="input-group">
           <div class="input-group-prepend">
             <span class="input-group-text">@</span>
           </div>
-        <input type="email" class="form-control" id="email" placeholder="seunome@exemplo.com" required="">
+        <input type="email" class="form-control" id="email" placeholder="seunome@exemplo.com" required>
         <div class="invalid-feedback">
           Digite seu E-mail.
         </div>
@@ -42,20 +54,21 @@
       </div>
       <!-- Senha -->
       <div class="mb-3">
-        <label for="email">Senha</label>
-        <input type="email" class="form-control" id="email" placeholder="Senha">
+        <label for="password">Senha</label>
+        <input type="password" class="form-control" id="email" placeholder="Senha">
         <div class="invalid-feedback">
           Digite sua senha.
         </div>
       </div>
       <!-- Confirmar Senha -->
       <div class="mb-3">
-        <label for="email">Confirmar senha</label>
-        <input type="email" class="form-control" id="email" placeholder="Confirmar senha">
+        <label for="password">Confirmar senha</label>
+        <input type="password" class="form-control" id="email" placeholder="Confirmar senha">
         <div class="invalid-feedback">
           Confirme sua senha.
         </div>
       </div>
+      <!--Quem é voce ?-->
       <div class="cadastrar">
         <div class="row">
           <div class="col-xs-4 col-xs-offset-4">
@@ -79,10 +92,9 @@
         <label class="custom-control-label" for="save-info"> Salvar informações para a proxima vez </label>
       </div>
       <hr class="mb-4">
-      <a href="main.html"><button class="btn btn-primary btn-lg btn-block" type="submit">Continue para finalizar seu cadastro</button></a>
+      <a href="index.html"><button class="btn btn-primary btn-lg btn-block" type="submit">Continue para finalizar seu cadastro</button></a>
     </form>
   </div>
-</div>
 
 <footer class="my-5 pt-5 text-muted text-center text-small">
   <p class="mb-1">© 2021 Camila e Matheus</p>
