@@ -35,8 +35,8 @@
                       <h4>John Doe</h4>
                       <p class="text-secondary mb-1">Full Stack Developer</p>
                       <p class="text-muted font-size-sm">Bay Area, San Francisco, CA</p>
-                      <button class="btn btn-primary">Seguir</button>
-                      <button class="btn btn-primary">Mensagem</button>
+                      <button class="btn btn-primary">Trocar Imagem</button>
+                      <button class="btn btn-primary">Salvar</button>
                     </div>
                   </div>
                 </div>
