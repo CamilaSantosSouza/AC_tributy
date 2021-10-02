@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt=br">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,7 +21,36 @@
           senha.type = "password";
         }
       }
-      </script>  
+      </script> 
+      <?php 
+          require('db.php');
+
+          if(isset($_REQUES['user_name'])) {
+            $user_name = stripslashes($_REQUEST['user_name']);
+            $user_name = mysqli_real_escape_string($con, $username);
+            $email = stripslashes($_REQUEST['email']);
+            $email = mysqli_real_escape_string($con, $email);
+            $password = stripslashes($_REQUEST['password']);
+            $password = mysqli_real_escape_string($con, $password);
+            $create_datetime = date("Y-m-d H:i:s");
+            $query = "INSERT into `users` (username, password, email, create_datetime)
+                      VALUES ('$username', '" . md5($password) . "', '$email', '$create_datetime')";
+            $result   = mysqli_query($con, $query);
+            if ($result) {
+              echo "<div class = 'form'>
+                    <h3>You are registered successfully.</h3><br/>
+                        <p class='link'>Click here to <a href='login.php'>Login</a></p>
+                        </div>";
+              } else {
+                  echo "<div class='form'>
+                        <h3>Required fields are missing.</h3><br/>
+                        <p class='link'>Click here to <a href='registration.php'>registration</a> again.</p>
+                        </div>";
+              }
+            } else {
+
+      ?>
+    <form class="form" action="" method="POST">
     <div class="container">
       <div class="py-5 text-center">
         <img class="mb-4" src="./Images/hands.png" alt="" width="72" height="72">
@@ -95,7 +124,10 @@
       <a href="index.html"><button class="btn btn-primary btn-lg btn-block" type="submit">Continue para finalizar seu cadastro</button></a>
     </form>
   </div>
-
+  </form>
+  <?php 
+    }
+  ?>
 <footer class="my-5 pt-5 text-muted text-center text-small">
   <p class="mb-1">© 2021 Camila e Matheus</p>
 </footer>

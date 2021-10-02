@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,6 +11,33 @@
     <title>Login</title>
   </head>
   <body>
+    <?php 
+        require('db.php');
+        session_start();
+        //verifica e cria a sessão
+        if (isset($_POST['username'])) {
+            $username = stripslashes($_REQUEST['username']);  
+            $username = mysqli_real_escape_string($con, $username);
+            $password = stripslashes($_REQUEST['password']);
+            $password = mysqli_real_escape_string($con, $password);
+
+            //verifica se o usuário está no databasee, talkei?
+            $query = "SELECT * FROM `users` WHERE username='$username'
+                      AND password='" . md5($password) . "'";
+
+            $result =  mysqli_query($con, $query) or die (mysqli_error());
+            $rows = mysqli_num_rows($result);
+            if($rows ==  1) {
+              $_SESSION['username'] = $username;
+                //Redireciona o user para a página
+                header("Location: main.php");
+        } else {
+            echo "<div class='form'>
+            <h3>Incorrect Username/password.</h3><br/>
+            <p class='link'>Click here to <a href='login.php'>Login</a> again.</p>
+            </div>";
+        }
+    ?>
         <form class="form-signin">
           <div class="text-center mb-4">
             <img class="mb-4" src="./images/hands.png" alt="" width="72" height="72">
@@ -38,5 +65,8 @@
           <a href="main.html"><button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button></a>
           <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
         </form>
-      </body>
+  <?php
+        }
+  ?>
+</body>
 </html>
