@@ -1,4 +1,3 @@
-<?php phpinfo(); ?>
 <!doctype html>
 <html lang="pt-br">
   <head>
@@ -12,49 +11,22 @@
     <title>Login</title>
   </head>
   <body>
-    <?php 
-        require('db.php');
-        session_start();
-        //verifica e cria a sessão
-        if (isset($_POST['username'])) {
-            $username = stripslashes($_REQUEST['username']);  
-            $username = mysqli_real_escape_string($con, $username);
-            $password = stripslashes($_REQUEST['password']);
-            $password = mysqli_real_escape_string($con, $password);
-
-            //verifica se o usuário está no databasee, talkei?
-            $query = "SELECT * FROM `users` WHERE username='$username'
-                      AND password='" . md5($password) . "'";
-
-            $result =  mysqli_query($con, $query) or die ('not conected' . mysqli_connect_error());
-            $rows = mysqli_num_rows($result);
-            if($rows ==  1) {
-              $_SESSION['username'] = $username;
-                //Redireciona o user para a página
-                header("Location: main.php");
-        } else {
-            echo "<div class='form'>
-            <h3>Incorrect Username/password.</h3><br/>
-            <p class='link'>Click here to <a href='cadastrar.php'>Login</a> again.</p>
-            </div>";
-        }
-    ?>
-        <form class="form-signin">
+        <form action="login.php" method="POST">
+        <div class="form-signin">
           <div class="text-center mb-4">
             <img class="mb-4" src="./images/hands.png" alt="" width="72" height="72">
             <h1 class="h3 mb-3 font-weight-normal">Tela de login</h1>
             <p>Este é um sistema web de testes para aprendizagem de crianças com surdez ou deficiencia auditiva. <br>
               <a href="https://www.senac.br/">Clique aqui para acessar o site de nossa faculdade</a></p>
           </div>
-    
           <div class="form-label-group">
             <label for="inputEmail">Endereço de E-mail</label>
-            <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" autofocus="">
+            <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" name="email" autofocus="">
           </div>
     
           <div class="form-label-group">
             <label for="inputPassword">Senha</label>
-            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required="">
+            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" name="password" required">
           </div>
     
           <div class="checkbox mb-3">
@@ -65,9 +37,7 @@
           
           <a href="main.html"><button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button></a>
           <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
-        </form>
-  <?php
-        }
-  ?>
+      </div>
+      </form>
 </body>
 </html>
