@@ -28,12 +28,6 @@
             <label for="inputPassword">Senha</label>
             <input type="password" id="inputPassword" class="form-control" placeholder="Senha" name="password" required">
           </div>
-    
-          <div class="checkbox mb-3">
-            <label>
-              <input type="checkbox" value="remember-me">  Lembrar de mim
-            </label>
-          </div>
           
           <a href="main.html"><button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button></a>
           <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
