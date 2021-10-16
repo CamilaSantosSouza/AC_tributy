@@ -82,7 +82,7 @@
         <label class="custom-control-label" for="save-info"> Salvar informações para a proxima vez </label>
       </div>
       <hr class="mb-4">
-      <a href="index.html"><button class="btn btn-primary btn-lg btn-block" type="submit">Continue para finalizar seu cadastro</button></a>
+      <a href="index.php"><button class="btn btn-primary btn-lg btn-block" type="submit">Continue para finalizar seu cadastro</button></a>
     </form>
   </div>
 <footer class="my-5 pt-5 text-muted text-center text-small">

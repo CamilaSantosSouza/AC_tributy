@@ -15,8 +15,8 @@
     <div class="px-3 py-2 bg-primary text-white">
       <div class="container">
         <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-          <a href="profile.html"<button type="button" class="btn btn-primary"></form><i class="bi bi-person"></i>Profile</button></a>
-          <a href="main.html"<button type="button" class="btn btn-primary" method="POST" ><i class="bi bi-house"></i> Home</button></a>
+          <a href="profile.php"<button type="button" class="btn btn-primary"></form><i class="bi bi-person"></i>Profile</button></a>
+          <a href="main.php"<button type="button" class="btn btn-primary" method="POST" ><i class="bi bi-house"></i> Home</button></a>
           <form class="col-12 col-lg-4 mb-5 mb-lg-0 me-lg-3">
             <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
           </form>

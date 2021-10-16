@@ -27,7 +27,7 @@
             <a class="dropdown-item" href="#">Cores</a>
           </div>
         </div>
-        <a href="profile.html"><button type="button" class="btn btn-primary"><i class="bi bi-person"></i>  Perfil</button></a>
+        <a href="profile.php"><button type="button" class="btn btn-primary"><i class="bi bi-person"></i>  Perfil</button></a>
         <form class="col-12 col-lg-4 mb-5 mb-lg-0 me-lg-3">
         
         <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
@@ -48,8 +48,8 @@
             A inclusão escolar de surdos nas escolas de ouvintes tem o objetivo de igualar as possibilidades de aprendizagem sendo as mesmas 
             condições de comunicação oral oferecidas ao aluno ouvinte. O objetivo principal deste site é buscar auxiliar e facilitar 
             alfabetização e aprendizagem de crianças com tais deficiências. </font><font style="vertical-align: inherit;"></font></font></p>
-            <a href="secondary.html" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Câmera</font></font></a>
-            <a href="profile.html" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Perfil</font></font></a>
+            <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Câmera</font></font></a>
+            <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Perfil</font></font></a>
         </div>
       </div>
     </section>
