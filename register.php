@@ -7,5 +7,5 @@
     $hash = password_hash($password, PASSWORD_DEFAULT);
 
     $res = mysqli_query($conn, "INSERT INTO `users`(`username`, `email`, `password`) VALUES('$username', '$email', '$hash')");
-    
+    header("location: index.php");
 ?>

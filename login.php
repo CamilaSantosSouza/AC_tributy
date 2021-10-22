@@ -3,14 +3,13 @@
 	require_once 'conn.php';
 
 	$email = $_POST['email'];
-	$password = preg_replace('/[^[:alnum:]_]/', '',$_POST['password']);
+	$password = $_POST['password'];
 	$hash = password_hash($password, PASSWORD_DEFAULT);
  
 	$query = mysqli_query($conn, "SELECT * FROM `users` WHERE `email`='$email' && `password`='$hash'");
-	if (mysqli_num_rows($query) > 1) {
-		echo "Login inválido!"; 
-		exit;
+	if (mysqli_num_rows($query) == 0) {
+		echo "Login inválido!";
 	} else {
-		header("Location:main.php");
+		header ('Location:main.php');
 	} 
 ?>
