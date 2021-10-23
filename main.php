@@ -11,10 +11,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" type="image/jpg" href="atuaimagem.jpg" />
     <link rel="icon" href="./images/deaf.png" type="image/x-icon" />
-    <title>Página principal</title>
+    <title>Pagina principal</title>
   </head>
 <header>
-  <div class="px-3 py-2 bg-primary text-white">
+  <div class="px-3 py-2 bg-primary text-white text-align: center ">
+    <style></style>
     <div class="container">
       <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
         <div class="dropdown">
@@ -27,14 +28,15 @@
             <a class="dropdown-item" href="#">Cores</a>
           </div>
         </div>
-        <a href="profile.html"><button type="button" class="btn btn-primary"><i class="bi bi-person"></i>  Perfil</button></a>
-        <form class="col-12 col-lg-4 mb-5 mb-lg-0 me-lg-3">
-        
+        <a href="profile.php"><button type="button" class="btn btn-primary"><i class="bi bi-person"></i>  Perfil</button></a>
+        <div class="col-12 col-lg-8 mb-5 mb-lg-0 me-lg-2">
         <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
-        </form>
+        </div>
+        <a href="logout.php"><button type="button" class="btn btn-primary"><i class="bi bi-box-arrow-left"></i>  Sair</button></a>
       </div>
     </div>
   </div>
+  
 </header>
 <body>
   <main>
@@ -48,8 +50,8 @@
             A inclusão escolar de surdos nas escolas de ouvintes tem o objetivo de igualar as possibilidades de aprendizagem sendo as mesmas 
             condições de comunicação oral oferecidas ao aluno ouvinte. O objetivo principal deste site é buscar auxiliar e facilitar 
             alfabetização e aprendizagem de crianças com tais deficiências. </font><font style="vertical-align: inherit;"></font></font></p>
-            <a href="secondary.html" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Câmera</font></font></a>
-            <a href="profile.html" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Perfil</font></font></a>
+            <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Câmera</font></font></a>
+            <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Perfil</font></font></a>
         </div>
       </div>
     </section>
@@ -60,10 +62,9 @@
           <!-- Quadrado 1 --> 
           <div class="col">
             <div class="card shadow-sm">
-              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect>
-              <text x="45%" y="50%" fill="#eceeef" dy=".3em">Item 1</text></svg>        
-
+              <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de 
@@ -82,9 +83,9 @@
            <!-- Quadrado 2 --> 
           <div class="col">
             <div class="card shadow-sm">
-              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect>
-              <text x="45%" y="50%" fill="#eceeef" dy=".3em">Item 2</text></svg>        
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>       
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
@@ -104,9 +105,9 @@
           <!-- Quadrado 3 --> 
           <div class="col">
             <div class="card shadow-sm">
-              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect>
-              <text x="45%" y="50%" fill="#eceeef" dy=".3em">Item 3</text></svg>        
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>       
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
@@ -126,9 +127,9 @@
           <!-- Quadrado 4 --> 
           <div class="col">
             <div class="card shadow-sm">
-              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect>
-              <text x="45%" y="50%" fill="#eceeef" dy=".3em">Item 4</text></svg>        
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>       
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
@@ -148,9 +149,9 @@
           <!-- Quadrado 5 --> 
           <div class="col">
             <div class="card shadow-sm">
-              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect>
-              <text x="45%" y="50%" fill="#eceeef" dy=".3em">Item 5</text></svg>        
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>        
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
@@ -168,9 +169,9 @@
           </div>
           <div class="col">
             <div class="card shadow-sm">
-              <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcador de posição: miniatura" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect>
-              <text x="45%" y="50%" fill="#eceeef" dy=".3em">Item 6</text></svg>        
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>        
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">

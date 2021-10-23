@@ -7,6 +7,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <link href="./CSS/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" href="./images/deaf.png" type="image/x-icon" />
     <title>Profile</title>
   </head>
@@ -14,10 +15,12 @@
     <div class="px-3 py-2 bg-primary text-white">
       <div class="container">
         <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-          <a href="main.html"><button type="button" class="btn btn-primary" method="POST" ><i class="bi bi-house"></i> Home</button></a>
-          <form class="col-12 col-lg-4 mb-5 mb-lg-0 me-lg-3">
-            <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
-          </form>
+          <a href="main.php"><button type="button" class="btn btn-primary" method="POST" ><i class="bi bi-house"></i> Home</button></a>
+          <div class="col-12 col-lg-8 mb-5 mb-lg-0 me-lg-2">
+        <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
+        </div>
+        <a href="logout.php"><button type="button" class="btn btn-primary"><i class="bi bi-box-arrow-left"></i>  Sair</button></a>
+      </div>
         </div>  
       </div>    
     </div>     
