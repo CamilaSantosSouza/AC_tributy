@@ -67,14 +67,13 @@
                 async src="https://tenor.com/embed.js"></script>
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de 
-                apoio abaixo como uma introdução natural para conteúdo adicional. </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de BOI/VACA na Língua Brasileira de Sinais! </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Camila & Matheus</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -89,14 +88,13 @@
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de 
-                apoio abaixo como uma introdução natural para conteúdo adicional. </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de BORBOLETA na Língua Brasileira de Sinais! . </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Camila & Matheus</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -111,14 +109,13 @@
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de 
-                apoio abaixo como uma introdução natural para conteúdo adicional. </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de CACHORRO na Língua Brasileira de Sinais! </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Camila & Matheus</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -133,14 +130,13 @@
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de 
-                apoio abaixo como uma introdução natural para conteúdo adicional. </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de CAVALO na Língua Brasileira de Sinais! </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Camila & Matheus</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -155,14 +151,13 @@
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de 
-                apoio abaixo como uma introdução natural para conteúdo adicional. </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de COBRA na Língua Brasileira de Sinais!  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Camila & Matheus</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -175,14 +170,13 @@
 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Este é um cartão mais amplo com texto de 
-                apoio abaixo como uma introdução natural para conteúdo adicional. </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de COELHO na Língua Brasileira de Sinais! </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Camila & Matheus</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
                 </div>
               </div>
             </div>
