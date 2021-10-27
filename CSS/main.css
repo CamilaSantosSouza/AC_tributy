@@ -1,1 +1,7 @@
 .show {display:block;}
+
+
+.tenor-gif-embed {
+    width: fit-content;
+    max-width: max-content;
+}

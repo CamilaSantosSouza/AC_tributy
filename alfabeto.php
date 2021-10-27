@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" type="image/jpg" href="atuaimagem.jpg" />
     <link rel="icon" href="./images/deaf.png" type="image/x-icon" />
-    <title>Pagina principal</title>
+    <title>Alfabeto</title>
   </head>
 <header>
   <div class="px-3 py-2 bg-primary text-white text-align: center ">
@@ -23,11 +23,12 @@
           Categoria
           </button>
           <div id="myDropdown" class="dropdown-menu">
-            <a class="dropdown-item" href="alfabeto.php">Alfabeto</a>
+            <a class="dropdown-item" href="alfabeto.php">Alfabeto <- Você está aqui!</a>
             <a class="dropdown-item" href="animais.php">Animais</a>
             <a class="dropdown-item" href="cores.php">Cores</a>
           </div>
         </div>
+        <a href="main.php"><button type="button" class="btn btn-primary"><i class="bi bi-house"></i>  Home</button></a>
         <div class="col-12 col-lg-8 mb-5 mb-lg-0 me-lg-2">
         <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
         </div>
@@ -35,20 +36,17 @@
       </div>
     </div>
   </div>
-  
+
 </header>
 <body>
   <main>
-
     <section class="py-5 text-center container">
         <div class="col-lg-6 col-md-8 mx-auto">
-          <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Qual nosso objetivo?</b></font></font></h1>
+          <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Alfabeto</b></font></font></h1>
           <style>.justificado {font-size: 18px;text-align: justify;text-justify: inter-word;}</style>
-          <p class="justificado"><font style="text-align: inherit;">A inclusão dos surdos e deficientes auditivos 
-            na sociedade vem cada vez mais ganhando destaque e já se tornou uma pauta entre os profissionais da educação em geral. 
-            A inclusão escolar de surdos nas escolas de ouvintes tem o objetivo de igualar as possibilidades de aprendizagem sendo as mesmas 
-            condições de comunicação oral oferecidas ao aluno ouvinte. O objetivo principal deste site é buscar auxiliar e facilitar 
-            alfabetização e aprendizagem de crianças com tais deficiências. </font><font style="vertical-align: inherit;"></font></font></p>
+          <p class="justificado"><font style="text-align: inherit;">Escrever alguma coisa aqui Escrever alguma coisa aqui Escrever alguma coisa aqui</font><font style="vertical-align: inherit;"></font></font></p>
+            <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Alfabeto</font></font></a>
+            <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
         </div>
       </div>
     </section>
@@ -63,8 +61,8 @@
               <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Boi.gif" alt="this slowpoke moves"width="250" /></div>
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
-                  do <b>Alfabeto</b> na Língua Brasileira de Sinais.</font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra BOI/VACA na 
+                Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -75,7 +73,7 @@
               </div>
             </div>
           </div>
-          
+
            <!-- Quadrado 2 --> 
           <div class="col">
             <div class="card shadow-sm">
@@ -84,8 +82,8 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
-                  de <b>Animais</b> na Língua Brasileira de Sinais.</font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra BORBOLETA na 
+                Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -105,8 +103,67 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
-                  de <b>Cores</b> na Língua Brasileira de Sinais. </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra CACHORRO na 
+                Língua Brasileira de Sinais . </font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 4 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra CAVALO na 
+                Língua Brasileira de Sinais </font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 5 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra COBRA na 
+                Língua Brasileira de Sinais  </font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> 
+                <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra COELHO na 
+                Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
