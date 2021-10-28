@@ -36,7 +36,7 @@
       </div>
     </div>
   </div>
-  
+ 
 </header>
 <body>
   <main>
@@ -52,6 +52,7 @@
             alfabetização e aprendizagem de crianças com tais deficiências. </font><font style="vertical-align: inherit;"></font></font></p>
             <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Câmera</font></font></a>
             <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Perfil</font></font></a>
+
         </div>
       </div>
     </section>
@@ -124,6 +125,7 @@
           <!-- Quadrado 4 --> 
           <div class="col">
             <div class="card shadow-sm">
+            <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
                 async src="https://tenor.com/embed.js"></script>       
