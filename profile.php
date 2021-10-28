@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,10 +14,12 @@
     <div class="px-3 py-2 bg-primary text-white">
       <div class="container">
         <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-          <a href="main.html"><button type="button" class="btn btn-primary" method="POST" ><i class="bi bi-house"></i> Home</button></a>
-          <form class="col-12 col-lg-4 mb-5 mb-lg-0 me-lg-3">
-            <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
-          </form>
+          <a href="main.php"><button type="button" class="btn btn-primary" method="POST" ><i class="bi bi-house"></i> Home</button></a>
+          <div class="col-12 col-lg-8 mb-5 mb-lg-0 me-lg-2">
+        <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
+        </div>
+        <a href="logout.php"><button type="button" class="btn btn-primary"><i class="bi bi-box-arrow-left"></i>  Sair</button></a>
+      </div>
         </div>  
       </div>    
     </div>     
@@ -35,8 +37,8 @@
                       <h4>John Doe</h4>
                       <p class="text-secondary mb-1">Full Stack Developer</p>
                       <p class="text-muted font-size-sm">Bay Area, San Francisco, CA</p>
-                      <button class="btn btn-primary">Trocar Imagem</button>
-                      <button class="btn btn-primary">Salvar</button>
+                      <button class="btn btn-primary">Seguir</button>
+                      <button class="btn btn-primary">Mensagem</button>
                     </div>
                   </div>
                 </div>

@@ -1,5 +1,6 @@
 <!doctype html>
-<html lang="en">
+
+<html lang="pt-br">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,16 +13,22 @@
   </head>
   <body>
         <form class="form-signin">
+
+      <form action="login.php" method="POST">
+        <div class="form-signin">
           <div class="text-center mb-4">
             <img class="mb-4" src="./images/hands.png" alt="" width="72" height="72">
             <h1 class="h3 mb-3 font-weight-normal">Tela de login</h1>
             <p>Este é um sistema web de testes para aprendizagem de crianças com surdez ou deficiencia auditiva. <br>
               <a href="https://www.senac.br/">Clique aqui para acessar o site de nossa faculdade</a></p>
           </div>
-    
           <div class="form-label-group">
             <label for="inputEmail">Endereço de E-mail</label>
             <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" autofocus="">
+
+          <div class="form-label-group">
+            <label for="inputEmail">Endereço de E-mail</label>
+            <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" name="email" autofocus="">
           </div>
     
           <div class="form-label-group">
@@ -33,10 +40,16 @@
             <label>
               <input type="checkbox" value="remember-me">  Lembrar de mim
             </label>
+            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" name="password" required">
           </div>
           
           <a href="main.html"><button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button></a>
           <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
+
         </form>
       </body>
+
+      </div>
+      </form>
+</body>
 </html>
