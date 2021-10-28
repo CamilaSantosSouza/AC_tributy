@@ -1,14 +1,19 @@
 function checkPassword() {
-    if(password == ''){
-      alert("Por favor, digite uma senha!");
 
-  } else if (retype_password ==''){
-      alert("Por favor, digite uma senha!");
-    } else if (password == retype_password) {
+let password = document.getElementById("password").value;
+let retype_password = document.getElementById("retype_password").value;
+let match = true;
+
+  if (password != retype_password) {
+    document.getElementById("password").style.borderColor = "#ff0000";
+    document.getElementById("retype_password").style.borderColor = "#ff0000";
+    match = false;
+    alert("Senhas não são compativeis");
+
+  } else {
+      document.getElementById("password").style.borderColor = "#00FF38";
+      document.getElementById("retype_password").style.borderColor = "#00FF38";
       return true;
-    }     
-    else {
-      alert("Senhas não compativeis");
-      return false;
-    }
   }
+  return match;
+}
