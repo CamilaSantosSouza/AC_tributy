@@ -35,7 +35,7 @@
       </div>
     </div>
   </div>
-  
+ 
 </header>
 <body>
   <main>
@@ -63,8 +63,9 @@
               <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Boi.gif" alt="this slowpoke moves"width="250" /></div>
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
-                  do <b>Alfabeto</b> na Língua Brasileira de Sinais.</font></p>
+                do <b>Alfabeto</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -107,6 +108,74 @@
               <div class="card-body">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
                   de <b>Cores</b> na Língua Brasileira de Sinais. </font></p>
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>       
+
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de CACHORRO na Língua Brasileira de Sinais! </font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 4 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>       
+
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de CAVALO na Língua Brasileira de Sinais! </font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 5 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>        
+
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de COBRA na Língua Brasileira de Sinais!  </font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
+                async src="https://tenor.com/embed.js"></script>        
+
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de COELHO na Língua Brasileira de Sinais! </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
