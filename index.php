@@ -1,4 +1,5 @@
 <!doctype html>
+
 <html lang="pt-br">
   <head>
     <meta charset="utf-8">
@@ -11,7 +12,9 @@
     <title>Login</title>
   </head>
   <body>
-        <form action="login.php" method="POST">
+        <form class="form-signin">
+
+      <form action="login.php" method="POST">
         <div class="form-signin">
           <div class="text-center mb-4">
             <img class="mb-4" src="./images/hands.png" alt="" width="72" height="72">
@@ -21,16 +24,31 @@
           </div>
           <div class="form-label-group">
             <label for="inputEmail">Endereço de E-mail</label>
+            <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" autofocus="">
+
+          <div class="form-label-group">
+            <label for="inputEmail">Endereço de E-mail</label>
             <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" name="email" autofocus="">
           </div>
     
           <div class="form-label-group">
             <label for="inputPassword">Senha</label>
+            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required="">
+          </div>
+    
+          <div class="checkbox mb-3">
+            <label>
+              <input type="checkbox" value="remember-me">  Lembrar de mim
+            </label>
             <input type="password" id="inputPassword" class="form-control" placeholder="Senha" name="password" required">
           </div>
           
           <a href="main.php"><button class="btn btn-lg btn-primary btn-block" type="submit" name="submit" >Entrar</button></a>
           <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
+
+        </form>
+      </body>
+
       </div>
       </form>
 </body>

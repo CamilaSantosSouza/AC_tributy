@@ -3,9 +3,8 @@
 
     $username=$_POST['username'];
     $email=$_POST['email'];
-	$password=$_POST['password'];
-    $hash = password_hash($password, PASSWORD_DEFAULT);
+    $password=$_POST['password'];
 
-    $res = mysqli_query($conn, "INSERT INTO `users`(`username`, `email`, `password`) VALUES('$username', '$email', '$hash')");
-    header("location: index.php");
+    $res = mysqli_query($conn, "INSERT INTO `users`(`username`, `email`, `password`) VALUES('$username', '$email', PASSWORD('$password'))");
+    
 ?>
