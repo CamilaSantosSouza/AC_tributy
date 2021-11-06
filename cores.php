@@ -25,7 +25,7 @@
           <div id="myDropdown" class="dropdown-menu">
             <a class="dropdown-item" href="animais.php">Alfabeto</a>
             <a class="dropdown-item" href="animais.php">Animais</a>
-            <a class="dropdown-item" href="cores.php">Cores <- Você está aqui!</a>
+            <a class="dropdown-item" href="cores.php"><b>Cores</b></a>
           </div>
         </div>
         <a href="main.php"><button type="button" class="btn btn-primary"><i class="bi bi-house"></i>  Home</button></a>
@@ -44,7 +44,11 @@
         <div class="col-lg-6 col-md-8 mx-auto">
           <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Cores</b></font></font></h1>
           <style>.justificado {font-size: 18px;text-align: justify;text-justify: inter-word;}</style>
-          <p class="justificado"><font style="text-align: inherit;">Escrever alguma coisa aqui Escrever alguma coisa aqui Escrever alguma coisa aqui</font><font style="vertical-align: inherit;"></font></font></p>
+          <p class="justificado"><font style="text-align: inherit;">A cor é uma sensação produzida pelos <b>raios de luz</b> nos
+           <b>nossos olhos</b> e que é entendida no cérebro. Isso acontece por causa de um fenómeno físico-químico em que cada cor 
+           depende do comprimento de onda da luz. O local iluminado absorve parte das ondas eletromagnéticas 
+           e refletem as restantes. Essas ondas refletidas são <b>captadas pelo olho</b> e, dependendo do comprimento de 
+           onda, são <b>interpretadas pelo cérebro</b></font><font style="vertical-align: inherit;"></font></font></p>
             <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Alfabeto</font></font></a>
             <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
         </div>
@@ -57,8 +61,8 @@
           <!-- Quadrado 1 --> 
           <div class="col">
             <div class="card shadow-sm">
-              <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Boi.gif" alt="this slowpoke moves"width="250" /></div>
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                  <a href=""></a></div> 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra BOI/VACA na 

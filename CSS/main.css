@@ -1,7 +1,10 @@
 .show {display:block;}
 
-
 .tenor-gif-embed {
     width: fit-content;
     max-width: max-content;
 }
+
+body {
+    background-image: url(\Users\matheus.pereira2\Desktop\bgverde.png);
+  }

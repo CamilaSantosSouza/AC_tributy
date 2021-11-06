@@ -44,26 +44,24 @@
         <div class="col-lg-6 col-md-8 mx-auto">
           <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Qual nosso objetivo?</b></font></font></h1>
           <style>.justificado {font-size: 18px;text-align: justify;text-justify: inter-word;}</style>
-          <p class="justificado"><font style="text-align: inherit;">A inclusão dos surdos e deficientes auditivos 
-            na sociedade vem cada vez mais ganhando destaque e já se tornou uma pauta entre os profissionais da educação em geral. 
-            A inclusão escolar de surdos nas escolas de ouvintes tem o objetivo de igualar as possibilidades de aprendizagem sendo as mesmas 
-            condições de comunicação oral oferecidas ao aluno ouvinte. O objetivo principal deste site é buscar auxiliar e facilitar 
-            alfabetização e aprendizagem de crianças com tais deficiências. </font><font style="vertical-align: inherit;"></font></font></p>
+          <p class="justificado"><font style="text-align: inherit;">A <b>inclusão dos surdos e deficientes auditivos</b> 
+            na sociedade vem cada vez mais <b>ganhando destaque</b> e já se tornou uma pauta entre os <b>profissionais da educação</b> em geral. 
+            A <b>inclusão escolar de surdos</b> nas escolas de ouvintes tem o objetivo de <b>igualar as possibilidades de aprendizagem</b> 
+            sendo as <b>mesmas condições</b> de comunicação oral oferecidas ao <b>aluno ouvinte</b>. O objetivo principal deste site é buscar auxiliar 
+            e <b>facilitar alfabetização e aprendizagem</b> de crianças com tais deficiências. </font><font style="vertical-align: inherit;"></font></font></p>
         </div>
       </div>
     </section>
 
       <div class="container">
-
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
           <!-- Quadrado 1 --> 
           <div class="col">
             <div class="card shadow-sm">
               <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Boi.gif" alt="this slowpoke moves"width="250" /></div>
+                  <a href=""></a></div> 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
                 do <b>Alfabeto</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -81,8 +79,7 @@
           <div class="col">
             <div class="card shadow-sm">
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-                <a href=""></a></div> <script type="text/javascript" 
-                async src="https://tenor.com/embed.js"></script>       
+                <a href=""></a></div>     
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
@@ -102,18 +99,11 @@
           <div class="col">
             <div class="card shadow-sm">
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-                <a href=""></a></div> <script type="text/javascript" 
-                async src="https://tenor.com/embed.js"></script>       
+                <a href=""></a></div>    
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
-                  de <b>Cores</b> na Língua Brasileira de Sinais. </font></p>
-                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
-                async src="https://tenor.com/embed.js"></script>       
-
-              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
-              <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de CACHORRO na Língua Brasileira de Sinais! </font></p>
+                  de <b>Cores</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -125,17 +115,16 @@
             </div>
           </div>
 
+          <!-
           <!-- Quadrado 4 --> 
           <div class="col">
             <div class="card shadow-sm">
-            <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/09/2021</font></font></small>
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
-                async src="https://tenor.com/embed.js"></script>       
-
+                <a href=""></a></div>      
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de CAVALO na Língua Brasileira de Sinais! </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
+                  de <b>~</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -151,12 +140,11 @@
           <div class="col">
             <div class="card shadow-sm">
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
-                async src="https://tenor.com/embed.js"></script>        
-
+                <a href=""></a></div>      
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de COBRA na Língua Brasileira de Sinais!  </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
+                  de <b>~</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -167,15 +155,16 @@
               </div>
             </div>
           </div>
+
+          <!-- Quadrado 6 -->
           <div class="col">
             <div class="card shadow-sm">
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-                <a href="https://tenor.com/search/oi+libras-stickers"></a></div> <script type="text/javascript" 
-                async src="https://tenor.com/embed.js"></script>        
-
+                <a href=""></a></div>     
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação de COELHO na Língua Brasileira de Sinais! </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
+                  de <b>~</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -186,9 +175,10 @@
               </div>
             </div>
           </div>
-        </div>
+          </div>
       </div>
     </div>
+
   </main>
   <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
 </body>

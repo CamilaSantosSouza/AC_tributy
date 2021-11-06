@@ -23,7 +23,7 @@
           Categoria
           </button>
           <div id="myDropdown" class="dropdown-menu">
-            <a class="dropdown-item" href="alfabeto.php">Alfabeto <- Você está aqui!</a>
+            <a class="dropdown-item" href="alfabeto.php"><b>Alfabeto</b></a>
             <a class="dropdown-item" href="animais.php">Animais</a>
             <a class="dropdown-item" href="cores.php">Cores</a>
           </div>
@@ -44,7 +44,11 @@
         <div class="col-lg-6 col-md-8 mx-auto">
           <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Alfabeto</b></font></font></h1>
           <style>.justificado {font-size: 18px;text-align: justify;text-justify: inter-word;}</style>
-          <p class="justificado"><font style="text-align: inherit;">Escrever alguma coisa aqui Escrever alguma coisa aqui Escrever alguma coisa aqui</font><font style="vertical-align: inherit;"></font></font></p>
+          <p class="justificado"><font style="text-align: inherit;">O alfabeto é um conjunto de letras de um sistema de 
+          escrita, sendo organizado em determinada ordem. Essas letras, quando reunidas, formam as <b>palavras</b>. 
+          O alfabeto da língua portuguesa é o alfabeto latino, que é considerado o <b>mais utilizado no mundo</b>, 
+          seus primeiros registros remontam aos povos gregos. Hoje ele está organizado em dois grupos: 
+          o das vogais e o das consoantes, com o total de <b>26 letras, sendo 5 vogais e 21 consoantes.</b></font><font style="vertical-align: inherit;"></font></font></p>
             <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Alfabeto</font></font></a>
             <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
         </div>
@@ -53,15 +57,15 @@
 
       <div class="container">
 
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
           <!-- Quadrado 1 --> 
           <div class="col">
             <div class="card shadow-sm">
               <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Boi.gif" alt="this slowpoke moves"width="250" /></div>
+                  <a href=""></a></div> 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra BOI/VACA na 
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>A</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
@@ -82,8 +86,8 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra BORBOLETA na 
-                Língua Brasileira de Sinais  </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>B</b> na 
+                Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -103,8 +107,8 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra CACHORRO na 
-                Língua Brasileira de Sinais . </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>C</b> na 
+                Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -124,8 +128,8 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra CAVALO na 
-                Língua Brasileira de Sinais </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>D</b> na 
+                Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -144,8 +148,8 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra COBRA na 
-                Língua Brasileira de Sinais  </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>E</b> na 
+                Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -156,14 +160,16 @@
               </div>
             </div>
           </div>
+
+          <!-- Quadrado 6 -->
           <div class="col">
             <div class="card shadow-sm">
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div> 
                 <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra COELHO na 
-                Língua Brasileira de Sinais  </font></p>
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>F</b> na 
+                Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
@@ -174,6 +180,407 @@
               </div>
             </div>
           </div>
+
+          <!-- Quadrado 7 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>G</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 8 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>H</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 9 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>I</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 10 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>J</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 11 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>K</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 12 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>L</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 13 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>M</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 14 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>N</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 15 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>O</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 16 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>P</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 17 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>Q</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 18 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>R</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 19 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>S</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 20 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>T</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 21 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>U</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 22 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>V</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 23 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>W</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 24 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>X</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 25 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>Y</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Quadrado 26 --> 
+          <div class="col">
+            <div class="card shadow-sm">
+            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
+                <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
+              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
+              <div class="card-body">
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>Z</b> na 
+                Língua Brasileira de Sinais</font></p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <div class="btn-group">
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
+                  </div>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>

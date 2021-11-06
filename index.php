@@ -22,10 +22,7 @@
             <p>Este é um sistema web de testes para aprendizagem de crianças com surdez ou deficiencia auditiva. <br>
               <a href="https://www.senac.br/">Clique aqui para acessar o site de nossa faculdade</a></p>
           </div>
-          <div class="form-label-group">
-            <label for="inputEmail">Endereço de E-mail</label>
-            <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" autofocus="">
-
+          
           <div class="form-label-group">
             <label for="inputEmail">Endereço de E-mail</label>
             <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" name="email" autofocus="">
