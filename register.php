@@ -6,5 +6,5 @@
     $password=$_POST['password'];
 
     $res = mysqli_query($conn, "INSERT INTO `users`(`username`, `email`, `password`) VALUES('$username', '$email', PASSWORD('$password'))");
-    
+    header("Location:main.php");
 ?>
