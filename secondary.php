@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,7 +9,7 @@
     <link href="./CSS/style.css" rel="stylesheet">
     <link href="./CSS/secundaria.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
-    <link rel="icon" href="./images/deaf.png" type="image/x-icon" />
+    <link rel="icon" href="./images/deaf.png" type="image/x-icon"/>
     <title>Secundaria</title>
   </head>
   <header>
@@ -19,9 +19,9 @@
           <a href="profile.php"<button type="button" class="btn btn-primary"></form><i class="bi bi-person"></i>Profile</button></a>
           <a href="main.php"<button type="button" class="btn btn-primary" method="POST" ><i class="bi bi-house"></i> Home</button></a>
           <div class="col-12 col-lg-8 mb-5 mb-lg-0 me-lg-2">
-            <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
+            <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search" name="search">
           </div>
-            <a href="logout.php"><button type="button" class="btn btn-primary"><i class="bi bi-box-arrow-left"></i>  Sair</button></a>
+            <a href="loyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyiiiiiiiiiiiiiiiiiiiuuigout.php"><button type="button" class="btn btn-primary"><i class="bi bi-box-arrow-left"></i>  Sair</button></a>
         </div>  
       </div>    
     </div>     

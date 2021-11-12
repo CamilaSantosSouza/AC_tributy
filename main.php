@@ -30,7 +30,7 @@
           </div>
         </div>
         <div class="col-12 col-lg-8 mb-5 mb-lg-0 me-lg-2">
-        <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search">
+        <input type="search" class="form-control" placeholder="Pesquisar..." aria-label="Search" name="search">
         </div>
         <a href="logout.php"><button type="button" class="btn btn-primary"><i class="bi bi-box-arrow-left"></i>  Sair</button></a>
       </div>
