@@ -65,7 +65,7 @@
                   <a href=""></a></div> 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra BOI/VACA na 
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>VERMELHO</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
@@ -86,7 +86,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra BORBOLETA na 
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>VERDE</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
@@ -107,7 +107,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra CACHORRO na 
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>AZUL</b> na 
                 Língua Brasileira de Sinais . </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
@@ -128,7 +128,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra CAVALO na 
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>AMARELO</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
@@ -148,7 +148,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra COBRA na 
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>ROXO</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
@@ -166,7 +166,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div> 
                 <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da palavra COELHO na 
+                <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>ROXO</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">

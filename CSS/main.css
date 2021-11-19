@@ -5,6 +5,9 @@
     max-width: max-content;
 }
 
-body {
-    background-image: url(\Users\matheus.pereira2\Desktop\bgverde.png);
-  }
+.body {
+    background-image: url(../Images/verde.png)!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+    background-position: center center!important;
+}
