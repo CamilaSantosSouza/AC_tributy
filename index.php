@@ -37,7 +37,6 @@
             <label>
               <input type="checkbox" value="remember-me">  Lembrar de mim
             </label>
-            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" name="password" required">
           </div>
           
           <a href="main.php"><button class="btn btn-lg btn-primary btn-block" type="submit" name="submit" >Entrar</button></a>
