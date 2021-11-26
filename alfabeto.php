@@ -40,6 +40,10 @@
 </header>
 <body>
   <main>
+    <style>.body{background-image: url(../Images/verde.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;}</style>
     <section class="py-5 text-center container">
         <div class="col-lg-6 col-md-8 mx-auto">
           <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Alfabeto</b></font></font></h1>
@@ -49,8 +53,8 @@
           O alfabeto da língua portuguesa é o alfabeto latino, que é considerado o <b>mais utilizado no mundo</b>, 
           seus primeiros registros remontam aos povos gregos. Hoje ele está organizado em dois grupos: 
           o das vogais e o das consoantes, com o total de <b>26 letras, sendo 5 vogais e 21 consoantes.</b></font><font style="vertical-align: inherit;"></font></font></p>
-            <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Alfabeto</font></font></a>
-            <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
+            <a href="animais.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Animais</font></font></a>
+            <a href="cores.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
         </div>
       </div>
     </section>

@@ -49,8 +49,8 @@
            depende do comprimento de onda da luz. O local iluminado absorve parte das ondas eletromagnéticas 
            e refletem as restantes. Essas ondas refletidas são <b>captadas pelo olho</b> e, dependendo do comprimento de 
            onda, são <b>interpretadas pelo cérebro</b></font><font style="vertical-align: inherit;"></font></font></p>
-            <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Alfabeto</font></font></a>
-            <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
+            <a href="alfabeto.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Alfabeto</font></font></a>
+            <a href="animais.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Animais</font></font></a>
         </div>
       </div>
     </section>
