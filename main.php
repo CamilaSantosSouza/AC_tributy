@@ -6,14 +6,15 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    <link href="./CSS/style.css" rel="stylesheet">
     <link href="./CSS/main.css" rel="stylesheet">
+    <link href="./CSS/style.css" rel="stylesheet">
     <script type="text/javascript" src="JS/search.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="icon" type="image/jpg" href="atuaimagem.jpg" />
     <link rel="icon" href="./images/deaf.png" type="image/x-icon" />
     <title>Pagina principal</title>
   </head>
+
 <header>
   <div class="px-3 py-2 bg-primary text-white text-align: center ">
     <style></style>
@@ -36,30 +37,38 @@
       </div>
     </div>
   </div>
-  <style>A {
+</header>
+
+<body>
+  <main>
+    <style> h2{
+    background: -webkit-linear-gradient(
+       #6610F2,#007bff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 30px;
+     }
+     
+     a{
     text-decoration: none;
     display: inline-block;
     overflow: hidden;
     -webkit-text-fill-color: black;
-  } </style>
-
-</header>
-<body>
-  <main>
+    }
+     </style>
 
     <section class="py-5 text-center container">
         <div class="col-lg-6 col-md-8 mx-auto">
           <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Qual nosso objetivo?</b></font></font></h1>
           <style>.justificado {font-size: 18px;text-align: justify;text-justify: inter-word;}</style>
-          <p class="justificado"><font style="text-align: inherit;">A <b>inclusão dos surdos e deficientes auditivos</b> 
+          <h2 class="justificado"><font style="text-align: inherit;">A <b>inclusão dos surdos e deficientes auditivos</b> 
             na sociedade vem cada vez mais <b>ganhando destaque</b> e já se tornou uma pauta entre os <b>profissionais da educação</b> em geral. 
             A <b>inclusão escolar de surdos</b> nas escolas de ouvintes tem o objetivo de <b>igualar as possibilidades de aprendizagem</b> 
             sendo as <b>mesmas condições</b> de comunicação oral oferecidas ao <b>aluno ouvinte</b>. O objetivo principal deste site é buscar auxiliar 
-            e <b>facilitar alfabetização e aprendizagem</b> de crianças com tais deficiências. </font><font style="vertical-align: inherit;"></font></font></p>
+            e <b>facilitar alfabetização e aprendizagem</b> de crianças com tais deficiências. </font><font style="vertical-align: inherit;"></font></font></h2>
         </div>
       </div>
     </section>
-
 
       <div class="container">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
