@@ -12,9 +12,7 @@
     <title>Login</title>
   </head>
   <body>
-        <form class="form-signin">
-
-      <form action="login.php" method="POST">
+        <form action="login.php" method="POST">
         <div class="form-signin">
           <div class="text-center mb-4">
             <img class="mb-4" src="./images/hands.png" alt="" width="72" height="72">
@@ -22,31 +20,22 @@
             <p>Este é um sistema web de testes para aprendizagem de crianças com surdez ou deficiencia auditiva. <br>
               <a href="https://www.senac.br/">Clique aqui para acessar o site de nossa faculdade</a></p>
           </div>
-          
           <div class="form-label-group">
             <label for="inputEmail">Endereço de E-mail</label>
             <input type="email" id="inputEmail" class="form-control" placeholder="E-mail" required="email" name="email" autofocus="">
           </div>
-    
           <div class="form-label-group">
             <label for="inputPassword">Senha</label>
-            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required="">
+            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" name="password" required="">
           </div>
-    
           <div class="checkbox mb-3">
             <label>
-              <input type="checkbox" value="remember-me">  Lembrar de mim
-            </label>
+              <input type="checkbox" value="remember-me">Lembrar de mim</label>
           </div>
-          
-          <hr class="mb-4">
-          <a href="main.php"><button class="btn btn-primary btn-lg btn-block" type="submit">Entrar</button></a>
+          <div class="mb-4">
+          <button class="btn btn-primary btn-lg btn-block" type="submit">Entrar</button>
           <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
-
-        </form>
-      </body>
-
-      </div>
-      </form>
-</body>
+        </div>
+    </form>
+  </body>
 </html>
