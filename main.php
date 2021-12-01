@@ -43,12 +43,11 @@
   <main>
     <style> h2{
     background: -webkit-linear-gradient(
-       #6610F2,#007bff);
+       #6610F2,#007bff) ;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     line-height: 30px;
      }
-     
      a{
     text-decoration: none;
     display: inline-block;
@@ -80,14 +79,11 @@
               <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="./images/Alfabeto.png" width="100%" height="100%">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
                 do <b>ALFABETO</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
-                  </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></small>
                 </div>
               </div>
               </div>
@@ -107,11 +103,6 @@
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
                   de <b>ANIMAIS</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
-                  </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
                   </div>
                 </div>
               </div>
@@ -131,11 +122,6 @@
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
                   de <b>CORES</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
-                  </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
                   </div>
                 </div>
               </div>

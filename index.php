@@ -40,7 +40,7 @@
           </div>
           
           <hr class="mb-4">
-          <a href="main.php"><button class="btn btn-primary btn-lg btn-block" type="submit">Entrar</button></a>
+          <a href="main.php"><button class="btn btn-primary btn-lg btn-block" type="submit" name="submit">Entrar</button></a>
           <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
 
         </form>

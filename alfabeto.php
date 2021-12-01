@@ -40,19 +40,23 @@
 </header>
 <body>
   <main>
-    <style>.body{background-image: url(../Images/verde.png);
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position: center center;}</style>
+  <style> h2{
+    background: -webkit-linear-gradient(
+       #6610F2,#007bff) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 30px;
+     }</style>
+
     <section class="py-5 text-center container">
         <div class="col-lg-6 col-md-8 mx-auto">
           <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><b>Alfabeto</b></font></font></h1>
           <style>.justificado {font-size: 18px;text-align: justify;text-justify: inter-word;}</style>
-          <p class="justificado"><font style="text-align: inherit;">O alfabeto é um conjunto de letras de um sistema de 
+          <h2 class="justificado"><font style="text-align: inherit;">O alfabeto é um conjunto de letras de um sistema de 
           escrita, sendo organizado em determinada ordem. Essas letras, quando reunidas, formam as <b>palavras</b>. 
           O alfabeto da língua portuguesa é o alfabeto latino, que é considerado o <b>mais utilizado no mundo</b>, 
           seus primeiros registros remontam aos povos gregos. Hoje ele está organizado em dois grupos: 
-          o das vogais e o das consoantes, com o total de <b>26 letras, sendo 5 vogais e 21 consoantes.</b></font><font style="vertical-align: inherit;"></font></font></p>
+          o das vogais e o das consoantes, com o total de <b>26 letras, sendo 5 vogais e 21 consoantes.</b></font><font style="vertical-align: inherit;"></font></font></h2>
             <a href="animais.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Animais</font></font></a>
             <a href="cores.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
         </div>
@@ -69,6 +73,7 @@
                   <a href=""></a></div> 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="/Images/Alfabeto/a.png" width="100%" height="100%">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>A</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -90,6 +95,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="/Images/Alfabeto/b.png" width="100%" height="100%">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>B</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -111,6 +117,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="/Images/Alfabeto/c.png" width="100%" height="100%">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>C</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -132,6 +139,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="/Images/Alfabeto/d.png" width="100%" height="100%">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>D</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -152,6 +160,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="/Images/Alfabeto/e.png" width="100%" height="100%">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>E</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -172,6 +181,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div> 
                 <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="/Images/Alfabeto/f.png" width="100%" height="100%">
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>F</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
