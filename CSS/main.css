@@ -5,13 +5,6 @@
     max-width: max-content;
 }
 
-.body {
-    background-image: url(../Images/verde.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-}
-
 h2{
     background: -webkit-linear-gradient(
        #6610F2, #0dcaf0);
@@ -39,4 +32,4 @@ h2{
     overflow: hidden;
     -webkit-text-fill-color: black;
  }
- 
+

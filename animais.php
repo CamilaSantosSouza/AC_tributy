@@ -64,6 +64,7 @@
                   <a href=""></a></div> 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Boi.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da palavra <b>BOI/VACA</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
