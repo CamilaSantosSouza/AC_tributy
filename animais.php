@@ -48,8 +48,8 @@
           em comum: <b>nascem, desenvolvem-se, reproduzem-se e morrem</b>. O conjunto dessas etapas é chamado de <b>ciclo vital</b>. Eles podem 
           ser classificados em <b>vertebrados, invertebrados, selvagens, domésticos, terrestres, aquáticos, aéreos</b>, 
           entre várias outras formas.</font><font style="vertical-align: inherit;"></font></font></p>
-            <a href="secondary.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Alfabeto</font></font></a>
-            <a href="profile.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
+            <a href="alfabeto.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Alfabeto</font></font></a>
+            <a href="cores.php" class="btn btn-primary my-2"><font style="vertical-align: inherit;">Cores</font></font></a>
         </div>
       </div>
     </section>
@@ -86,6 +86,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Borboleta.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da palavra <b>BORBOLETA</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -107,6 +108,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Cachorro.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da palavra <b>CACHORRO</b> na 
                 Língua Brasileira de Sinais . </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -128,6 +130,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Cavalo.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da palavra <b>CAVALO</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -148,6 +151,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Cobra.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da palavra <b>COBRA</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -166,6 +170,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div> 
                 <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Coelho.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da palavra <b>COELHO</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">

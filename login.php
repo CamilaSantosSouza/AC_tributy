@@ -8,11 +8,10 @@
 	$query = mysqli_query($conn, "SELECT * FROM `users` WHERE `email`='$email' && `password`= PASSWORD('$password')");
 	if (mysqli_num_rows($query) > 0) {
 		header('Location:main.php'); 
-	} if($email == "camilaadmin@gmail.com" || $email == "matheusadmin@gmail.com"){
+	} elseif($email == "camilaadmin@gmail.com" || $email == "matheusadmin@gmail.com"){
 		header('Location:Admin.php');
 	} else {
-		header("Location:index.php");
-		
+		echo "Email ou senha incorreta";
 	}
 
 ?>
