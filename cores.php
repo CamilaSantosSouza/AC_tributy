@@ -65,6 +65,7 @@
                   <a href=""></a></div> 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Vermelho.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>VERMELHO</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -86,6 +87,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Verde.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>VERDE</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -107,6 +109,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Azul.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>AZUL</b> na 
                 Língua Brasileira de Sinais . </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -128,6 +131,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Amarelo.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>AMARELO</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -148,6 +152,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Roxo.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>ROXO</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -166,6 +171,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div> 
                 <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Roxo.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está é a representação da cor <b>ROXO</b> na 
                 Língua Brasileira de Sinais  </font></p>
                 <div class="d-flex justify-content-between align-items-center">
