@@ -73,7 +73,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15/02/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -95,7 +95,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15/02/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15/02/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -139,7 +139,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15/02/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -160,7 +160,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15/02/2016</font></font></small>
                 </div>
               </div>
             </div>
@@ -179,7 +179,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15/02/2016</font></font></small>
                 </div>
               </div>
             </div>

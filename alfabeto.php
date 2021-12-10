@@ -73,7 +73,7 @@
                   <a href=""></a></div> 
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-              <img src="/Images/Alfabeto/a.png" width="100%" height="100%">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/A.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>A</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -81,7 +81,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -95,7 +95,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-              <img src="/Images/Alfabeto/b.png" width="100%" height="100%">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/B.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>B</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -103,7 +103,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-              <img src="/Images/Alfabeto/c.png" width="100%" height="100%">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/C.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>C</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -125,7 +125,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -139,7 +139,7 @@
                 async src="https://tenor.com/embed.js"></script>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-              <img src="/Images/Alfabeto/d.png" width="100%" height="100%">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/D.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>D</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -147,7 +147,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -160,7 +160,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-              <img src="/Images/Alfabeto/e.png" width="100%" height="100%">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/E.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>E</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -168,7 +168,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -181,7 +181,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div> 
                 <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-              <img src="/Images/Alfabeto/f.png" width="100%" height="100%">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/F.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>F</b> na 
                 Língua Brasileira de Sinais </font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -189,7 +189,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -202,6 +202,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/G.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>G</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -209,7 +210,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -222,6 +223,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/H.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>H</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -229,7 +231,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -242,6 +244,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/I.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>I</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -249,7 +252,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -262,6 +265,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/J.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>J</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -269,7 +273,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -282,6 +286,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/K.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>K</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -289,7 +294,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -302,6 +307,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/L.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>L</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -309,7 +315,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -322,6 +328,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/M.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>M</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -329,7 +336,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -342,6 +349,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/N.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>N</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -349,7 +357,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -362,6 +370,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/O.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>O</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -369,7 +378,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -382,6 +391,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/P.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>P</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -389,7 +399,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -402,6 +412,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Q.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>Q</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -409,7 +420,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -422,6 +433,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/R.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>R</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -429,7 +441,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -442,6 +454,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/S.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>S</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -449,7 +462,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -462,6 +475,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/T.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>T</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -469,7 +483,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -482,6 +496,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/U.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>U</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -489,7 +504,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -502,6 +517,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/V.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>V</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -509,7 +525,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -522,6 +538,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/W.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>W</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -529,7 +546,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -542,6 +559,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/X.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>X</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -549,7 +567,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -562,6 +580,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Y.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>Y</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -569,7 +588,7 @@
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
                     <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
                   </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
+                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">17/05/2015</font></font></small>
                 </div>
               </div>
             </div>
@@ -582,6 +601,7 @@
                 <a href="https://tenor.com/search/oi+libras-stickers"></a></div>       
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Z.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Está a representação da letra <b>Z</b> na 
                 Língua Brasileira de Sinais</font></p>
                 <div class="d-flex justify-content-between align-items-center">
