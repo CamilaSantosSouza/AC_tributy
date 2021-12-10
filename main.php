@@ -79,7 +79,7 @@
               <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
-              <img src="./images/Alfabeto.png" width="100%" height="100%">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Alfabeto.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
                 do <b>ALFABETO</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -100,6 +100,7 @@
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">  
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Animais.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
                   de <b>ANIMAIS</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -119,6 +120,7 @@
             <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">  
               <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
               <div class="card-body">
+              <img src="https://fellowdeaf.s3.sa-east-1.amazonaws.com/Cores.gif" width="100%" height="100%"/><br></br>
                 <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
                   de <b>CORES</b> na Língua Brasileira de Sinais.</font></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -130,71 +132,12 @@
           </div>
           </div>
 
-          <!-- Quadrado 4 --> 
-          <div class="col">
-            <div class="card shadow-sm">
-            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-                <a href=""></a></div>      
-              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
-              <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
-                  de <b>~</b> na Língua Brasileira de Sinais.</font></p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
-                  </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Quadrado 5 --> 
-          <div class="col">
-            <div class="card shadow-sm">
-            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-                <a href=""></a></div>      
-              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
-              <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
-                  de <b>~</b> na Língua Brasileira de Sinais.</font></p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
-                  </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Quadrado 6 -->
-          <div class="col">
-            <div class="card shadow-sm">
-            <div class="tenor-gif-embed" data-postid="22471245" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-                <a href=""></a></div>     
-              <style>.justifiquadrado {text-align: justify;text-justify: inter-word;}</style>
-              <div class="card-body">
-                <p class="justifiquadrado"><font style="vertical-align: inherit;">Para acessar a páginas com todas as representações
-                  de <b>~</b> na Língua Brasileira de Sinais.</font></p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Autor(es):</font></button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary"><font style="vertical-align: inherit;">Hand Talk</font></button>
-                  </div>
-                  <small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">21/03/2016</font></font></small>
-                </div>
-              </div>
-            </div>
-          </div>
           </div>
       </div>
     </div>
 
-  </main>
-  <p class="mt-5 mb-3 text-muted text-center">© 2021 Camila e Matheus</p>
+  </main><br></br>
+  <p1 class="mt-5 mb-3 text-muted text-center"><center>© 2021 Camila e Matheus</center></p1>
 </body>
 </html>
 <script>
